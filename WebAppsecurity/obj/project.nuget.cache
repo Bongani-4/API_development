@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "p81oJOvrXFDQ2doZUbSNeRUVOB1dUDgOXZlbqtTY4Tth60eSAMGoIOdXDwqLmKxXcLzKwCbLgSOJ7nLCWjYrjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bongani\\OneDrive\\Desktop\\CMPG_323\\Project_2\\WebAppsecurity\\WebAppsecurity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bongani\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Bongani\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Bongani\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Bongani\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Bongani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Bongani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
