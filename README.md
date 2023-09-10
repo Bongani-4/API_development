@@ -5,7 +5,7 @@ https://35016752webapiappservice.azurewebsites.net/
 
 database on azure
 
-cmpg3232023.database.windows.net
+cmpg3232023.database.windows.net credentials to the server on efundi dropbox
 
 
 Inside this repo there is a folder for Web API dev
