@@ -1,8 +1,8 @@
 API_development
 
-link to  API on azure
+link to  API
 
-database on azure
+azure database 
 
 
 
